@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning Web developement
 - 📫 How to reach me on 
 
-i) Instagram : @abhi_galande_
+i) Linkedin : https://www.linkedin.com/in/abhishek-galande-5b3b16224/
 
 ii) gmail : galandeabhishek0@gmail.com
 
-iii) Linkedin : https://www.linkedin.com/in/abhishek-galande-5b3b16224/
+iii) Instagram : @abhi_galande_
+
 
 <!---
 AbhishekGalande/AbhishekGalande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
