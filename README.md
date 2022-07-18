@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Web developement
 - 📫 How to reach me on 
 i) Instagram : @abhi_galande_
+
 ii) gmail : galandeabhishek0@gmail.com
+
 iii) Linkedin : https://www.linkedin.com/in/abhishek-galande-5b3b16224/
 
 <!---
