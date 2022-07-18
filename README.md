@@ -7,7 +7,7 @@ i) Linkedin : https://www.linkedin.com/in/abhishek-galande-5b3b16224/
 
 ii) gmail : galandeabhishek0@gmail.com
 
-iii) Instagram : https://www.instagram.com/abhi_galande_/
+iii) Instagram :[ https://www.instagram.com/abhi_galande_/](https://www.instagram.com/abhi_galande_/)
 
 
 <!---
